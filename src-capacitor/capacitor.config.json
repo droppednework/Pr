@@ -1,0 +1,7 @@
+{
+  "appId": "org.bazumax.nir.app",
+  "appName": "Quasar App",
+  "bundledWebRuntime": false,
+  "npmClient": "[object Object]",
+  "webDir": "www"
+}
